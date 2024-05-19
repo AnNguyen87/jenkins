@@ -34,7 +34,7 @@ pipeline {
 
                     body: "Test Stage COMPLETE. Status: ${currentBuild.result}", 
 
-                    to: "an.atp5678@gmail.com"
+                    to: "sccoterlover88@gmail.com"
 
                 }
 
@@ -70,7 +70,7 @@ pipeline {
 
                     body: "The security scan stage has completed. Status: ${currentBuild.result}", 
 
-                    to: "an.atp5678@gmail.com"
+                    to: "sccoterlover88@gmail.com"
 
                 }
 
